@@ -54,7 +54,7 @@ college-hrms-dashboard/
 ## 🛠️ Local Deployment
 1. **Repository Synchronization**:
    ```bash
-   git clone [<your-repo-url>](https://github.com/ansonsaju/College-HRMS-Dashboard-UI)
+   git clone https://github.com/ansonsaju/College-HRMS-Dashboard-UI
    cd college-hrms-dashboard
    ```
 2. **Dependency Installation**:
