@@ -1,0 +1,142 @@
+[
+  {
+    "id": "EMP101",
+    "name": "Dr. Arun Kumar",
+    "department": "Computer Science",
+    "designation": "Professor",
+    "status": "Active"
+  },
+  {
+    "id": "EMP102",
+    "name": "Sarah John",
+    "department": "Electronics",
+    "designation": "Assistant Professor",
+    "status": "Active"
+  },
+  {
+    "id": "EMP103",
+    "name": "Michael Thomas",
+    "department": "Administration",
+    "designation": "HR Manager",
+    "status": "On Leave"
+  },
+  {
+    "id": "EMP104",
+    "name": "Priya Nair",
+    "department": "Mechanical",
+    "designation": "Associate Professor",
+    "status": "Active"
+  },
+  {
+    "id": "EMP105",
+    "name": "Kevin George",
+    "department": "Computer Science",
+    "designation": "Lecturer",
+    "status": "Active"
+  },
+  {
+    "id": "EMP106",
+    "name": "Meera Das",
+    "department": "Civil",
+    "designation": "Assistant Professor",
+    "status": "On Leave"
+  },
+  {
+    "id": "EMP107",
+    "name": "Rahul Varma",
+    "department": "Electronics",
+    "designation": "Professor",
+    "status": "Active"
+  },
+  {
+    "id": "EMP108",
+    "name": "Anjali Menon",
+    "department": "English",
+    "designation": "Lecturer",
+    "status": "Active"
+  },
+  {
+    "id": "EMP109",
+    "name": "David Wilson",
+    "department": "Mathematics",
+    "designation": "Associate Professor",
+    "status": "Active"
+  },
+  {
+    "id": "EMP110",
+    "name": "Sita Lakshmi",
+    "department": "Computer Science",
+    "designation": "Assistant Professor",
+    "status": "On Leave"
+  },
+  {
+    "id": "EMP111",
+    "name": "James Chen",
+    "department": "Information Tech",
+    "designation": "System Administrator",
+    "status": "Active"
+  },
+  {
+    "id": "EMP112",
+    "name": "Robert Fox",
+    "department": "Mechanical",
+    "designation": "Technical Lead",
+    "status": "Active"
+  },
+  {
+    "id": "EMP113",
+    "name": "Linda May",
+    "department": "Administration",
+    "designation": "Registrar",
+    "status": "Active"
+  },
+  {
+    "id": "EMP114",
+    "name": "Thomas Müller",
+    "department": "Physics",
+    "designation": "Senior Researcher",
+    "status": "Active"
+  },
+  {
+    "id": "EMP115",
+    "name": "Sophia Zhang",
+    "department": "Computer Science",
+    "designation": "AI Specialist",
+    "status": "Active"
+  },
+  {
+    "id": "EMP116",
+    "name": "Ahmed Hassan",
+    "department": "Civil",
+    "designation": "Project Engineer",
+    "status": "Active"
+  },
+  {
+    "id": "EMP117",
+    "name": "Elena Rossi",
+    "department": "Electronics",
+    "designation": "Expert Consultant",
+    "status": "On Leave"
+  },
+  {
+    "id": "EMP118",
+    "name": "William Brown",
+    "department": "Mathematics",
+    "designation": "Faculty Head",
+    "status": "Active"
+  },
+  {
+    "id": "EMP119",
+    "name": "Chloe Smith",
+    "department": "Placement Cell",
+    "designation": "Placement Officer",
+    "status": "Active"
+  },
+  {
+    "id": "EMP120",
+    "name": "Daniel Lee",
+    "department": "Computer Science",
+    "designation": "Dean of Academics",
+    "status": "Active"
+  }
+]
