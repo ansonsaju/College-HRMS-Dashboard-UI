@@ -46,6 +46,7 @@ college-hrms-dashboard/
 | Desktop View | Mobile View |
 | :---: | :---: |
 | ![Desktop](screen_shots/desktop/desktop1.png) | ![Mobile](/screen_shots/mobile_sidebar.png) |
+| ![Desktop](screen_shots/desktop/desktop2.png) | ![Mobile](/screen_shots/mobile_sidebar.png) |
 
 > [!NOTE]
 > *Screenshots are located in the `/screenshots` directory for evaluation.*
