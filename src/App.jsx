@@ -257,7 +257,7 @@ function DashboardLayout() {
   };
 
   return (
-    <div className="min-h-screen bg-[#f8fafc] font-inter selection:bg-primary-100 selection:text-primary-900">
+    <div className="min-h-screen bg-[#f8fafc] font-inter selection:bg-primary-100 selection:text-primary-900 overflow-x-hidden">
       <Sidebar isOpen={isSidebarOpen} toggleSidebar={() => setIsSidebarOpen(false)} />
 
       {isSidebarOpen && (
@@ -270,7 +270,7 @@ function DashboardLayout() {
         ></motion.div>
       )}
 
-      <div className="lg:pl-64 flex flex-col min-h-screen transition-all duration-500">
+      <div className="pl-0 lg:pl-64 flex flex-col min-h-screen transition-all duration-500 w-full max-w-full overflow-x-hidden">
         <Header
           toggleSidebar={() => setIsSidebarOpen(true)}
           searchTerm={searchTerm}

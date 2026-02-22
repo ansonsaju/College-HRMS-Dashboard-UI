@@ -6,8 +6,8 @@ import { motion } from 'framer-motion';
 const Header = ({ toggleSidebar, searchTerm, setSearchTerm }) => {
     const { user } = useAuth();
     return (
-        <header className="sticky top-0 z-40 bg-white/70 backdrop-blur-xl border-b border-slate-200/50 h-20 flex items-center justify-between px-4 lg:px-10">
-            <div className="flex items-center gap-6">
+        <header className="sticky top-0 z-40 bg-white/70 backdrop-blur-xl border-b border-slate-200/50 h-20 flex items-center justify-between px-3 sm:px-4 lg:px-10 w-full max-w-full">
+            <div className="flex items-center gap-2 sm:gap-6">
                 <motion.button
                     whileTap={{ scale: 0.9 }}
                     onClick={toggleSidebar}
@@ -25,7 +25,7 @@ const Header = ({ toggleSidebar, searchTerm, setSearchTerm }) => {
                 <h1 className="text-xl font-black text-slate-900 sm:hidden">HRMS</h1>
             </div>
 
-            <div className="flex items-center gap-3 lg:gap-6">
+            <div className="flex items-center gap-2 lg:gap-6">
                 <div className="relative hidden md:flex items-center group">
                     <Search className="absolute left-4 w-4 h-4 text-slate-400 group-focus-within:text-indigo-600 transition-colors" />
                     <input

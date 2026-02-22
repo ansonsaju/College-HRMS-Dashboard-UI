@@ -14,7 +14,7 @@ const StatsCard = ({ icon: Icon, label, value, colorClass, trend }) => {
             animate={{ opacity: 1, y: 0 }}
             className="perspective-1000"
         >
-            <div className="bg-white rounded-3xl p-6 border border-slate-200 shadow-sm hover:shadow-2xl hover:shadow-primary-100/50 transition-all duration-300 preserve-3d">
+            <div className="bg-white rounded-3xl p-4 sm:p-6 border border-slate-200 shadow-sm hover:shadow-2xl hover:shadow-primary-100/50 transition-all duration-300 preserve-3d">
                 <div className="flex items-center justify-between mb-4">
                     <div className={`p-4 rounded-2xl ${colorClass} shadow-inner`}>
                         <Icon className="w-6 h-6" />
